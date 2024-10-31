@@ -1,0 +1,12 @@
+Body{
+    background-color: rgb(191, 208, 231);
+}
+#Holidayss{
+    background-color: rgb(118, 161, 198);
+    border:2px solid black;
+}
+#christmas,#Holloween,#Thanksgiving,#Mybirthday, #badHolidays{
+    background-color: rgb(118, 161, 198);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+}

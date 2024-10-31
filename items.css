@@ -1,0 +1,22 @@
+.card-img-top {
+    width: 100%;
+    height:200px;
+    object-fit: cover;
+}
+    .card-text {
+        font-size: 16px; 
+        height: 100px; 
+        overflow-y: auto;
+        padding-right: 10px; 
+        scrollbar-width: thin;
+
+
+}
+body {
+    background-color: rgb(191, 208, 231);
+}
+#fruits{
+    background-color: rgb(118, 161, 198);
+    color: rgb(1, 1, 1);
+    border: 2px solid black;
+}

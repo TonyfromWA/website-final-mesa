@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(191, 208, 231);
+}
+#school{
+    background-color: rgb(118, 161, 198);
+    color: rgb(60, 4, 4);
+    border: 2px solid black;
+}
+#something{
+    border: 8px solid rgb(47, 47, 103);
+}
